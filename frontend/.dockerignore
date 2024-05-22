@@ -1,0 +1,31 @@
+# Node modules
+node_modules/
+
+# Angular build output
+dist/
+
+# Git directory
+.git/
+
+# Editor settings
+.idea/
+*.sublime*
+.vscode/
+
+# Logs
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Other common directories to ignore
+tmp/
+temp/
+
+# Angular specific
+angular.json
+*.hprof
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
