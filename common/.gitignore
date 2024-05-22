@@ -1,0 +1,10 @@
+# Dependency directories
+node_modules/
+
+# TypeScript compiled output
+dist/
+
+# Optional: Add other files and directories to ignore
+*.log
+*.temp
+*.cache
